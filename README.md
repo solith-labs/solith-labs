@@ -11,14 +11,14 @@ Design and implement production-grade systems that combine heterogeneous data in
 - Multi-modal data pipelines (social platforms + on-chain event streams)
 - Agentic architectures for semantic understanding, narrative scoring, and meme detection
 - Signal calibration frameworks with quantitative evaluation (precision, recall, lead time)
-- Research into conviction markets and reputation-weighted verification primitives
+- Research into agentic verification and reputation-weighted systems
 - Simulation and backtesting environments for early-signal robustness
 
 ## Repository Structure
 
 | Repository                              | Purpose                                                      | Status      |
 |-----------------------------------------|--------------------------------------------------------------|-------------|
-| conviction-markets-research             | Research notes, papers, and early experiments                | Active      |
+| solith-research                         | Specialized knowledge base and research on autonomous crypto intelligence | Active      |
 | onchain-social-data-pipelines           | Modular ingestion, normalization, and storage layers         | In progress |
 | agentic-verification                    | Autonomous agent prototypes for semantic + on-chain verification | Planned  |
 | evaluation-frameworks                   | Metrics, backtesting harnesses, and signal quality tooling   | Planned     |
